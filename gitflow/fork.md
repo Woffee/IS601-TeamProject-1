@@ -1,0 +1,4 @@
+## Forking
+
+One of the key aspects of putting code over github is to share it with others, or to join other's projects and the contribute back changes to their repository. Some key skills of doing so is to make a cpoy within your account by forking a repository, and then after making some changes you'll want to contrtibute back to those changes using pull request process.
+This works both ways, So we're going to include "Reviewing pull requests" and finally accepting other's changes into our repository. Finally, we have to synchronise changes from our upstream repository back to our individual fork or copy of the repository.
