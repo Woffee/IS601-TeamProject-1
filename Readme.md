@@ -3,7 +3,7 @@
 Team members: 
 
  - [Wenbo Wang](https://github.com/Woffee/)
- - Arpit Rai
+ - [Arpit Rai](https://github.com/DanishBread/)
 
 
 ## GitFlow
@@ -12,3 +12,13 @@ Team members:
 
 - [Repository](./gitflow/repository.md)
 - [Clone](./gitflow/clone.md)
+- [Fork](./gitflow/fork.md)
+- [Branch](./gitflow/branching.md)
+- [Commit](./gitflow/commit.md)
+- [Merge](./gitflow/merging.md)
+- [Checkout](./gitflow/checkout.md)
+- [Push](./gitflow/push.md)
+- [Pull](./gitflow/pull.md)
+- [Status](./gitflow/status.md)
+- [Remote Add/ Remove/ Show](./gitflow/remote_add,remove,show.md)
+- [Master Branch](./gitflow/master_branch.md)
