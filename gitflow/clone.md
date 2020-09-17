@@ -6,3 +6,4 @@ Cloning a repository pulls down a full copy of all the repository data that GitH
 
 One can either clone his existing repository or, to contribute to a project, clone another person's existing repository.
 
+![pullchart](imgs/clone1.png)
