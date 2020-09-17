@@ -18,4 +18,4 @@ Push all of your local branches to the specified remote.
 
 Tags are not automatically pushed when you push a branch or use the --all option. The --tags flag sends all of your local tags to the remote repository.
 
-![Push_chart](docker/imgs/push1.png)
+![Push_chart](imgs/push1.png)
