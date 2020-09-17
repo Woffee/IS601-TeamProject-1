@@ -32,3 +32,4 @@ In simpler words, Docker is a tool that allows developers, sys-admins etc. to ea
 - [Containers](docker/containers.md)
 - [Setting up your computer](docker/setting_up.md)
 - [Hello world](docker/hello_world.md)
+- [Docker run](docker/docker_run.md)
