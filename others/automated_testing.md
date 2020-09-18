@@ -12,6 +12,8 @@ The benefit of manual testing is that it allows a human mind to draw insights fr
 
 The move to agile has led many teams to adopt a pyramid testing strategy. The test automation pyramid strategy calls for automating tests at three different levels. Unit testing represents the base and biggest percentage of this test automation pyramid. Next comes, service layer, or API testing. And finally, [GUI tests](https://smartbear.com/learn/automated-testing/why-gui-testing/) sit at the top. The pyramid looks something like this:
 
+![test-automation-pyramid](imgs/test-automation-pyramid.png)
+
 An integrated GUI and API testing solution such as TestComplete can make the process of implementing a test automation pyramid easier as it ensures changes made to the API test cases are automatically reflected at the GUI level as well.
 
 ### Who should be involved with test automation?
