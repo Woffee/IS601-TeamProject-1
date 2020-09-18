@@ -39,3 +39,9 @@ In simpler words, Docker is a tool that allows developers, sys-admins etc. to ea
 - [Dockerfile](docker/dockerfile.md)
 - [Docker on AWS](docker/docker_on_aws.md)
 - [Docker compose](docker/docker_compose.md)
+
+
+## Reference
+
+- [https://docker-curriculum.com/](https://docker-curriculum.com/)
+- [https://www.atlassian.com/](https://www.atlassian.com/)
