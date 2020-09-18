@@ -45,8 +45,14 @@ In simpler words, Docker is a tool that allows developers, sys-admins etc. to ea
 - [Automated Testing](others/automated_testing.md)
 
 
+## Continuous Integration
+
+- [Continuous Integration](others/continuous_integration.md)
+
+
 ## Reference
 
 - [https://docker-curriculum.com/](https://docker-curriculum.com/)
 - [https://www.atlassian.com/](https://www.atlassian.com/)
 - [https://smartbear.com/learn/automated-testing/what-is-automated-testing/](https://smartbear.com/learn/automated-testing/what-is-automated-testing/)
+- [https://codeship.com/continuous-integration-essentials](https://codeship.com/continuous-integration-essentials)
